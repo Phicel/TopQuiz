@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <string name="Greeting_main">Bonjour, entrez votre nom</string>
+    <string name="Yourname_main">Entrez votre nom :</string>
+    <string name="Start_main">Debut du jeu</string>
+    <string name="Rank_main">Scores</string>
+    <string name="Player_ranking">Joueur</string>
+    <string name="Rankin_ranking">Score</string>
+    <string name="Score_ranking">Score</string>
+    <string name="Question_game">Question?</string>
+    <string name="Answer1_game">Answer1</string>
+    <string name="Answer2_game">Answer2</string>
+    <string name="Answer3_game">Answer3</string>
+    <string name="Answer4_game">Answer4</string>
+    <string name="Back_ranking">Back</string>
+    <string name="Alphabet_ranking">tri valeurs</string>
+    <string name="Valeur_ranking">tri alphabetique</string>
+    <string name="player">Joueur</string>
+    <string name="sco_re">sco re</string>
+    <string name="score">score</string>
+    <string name="activity_game_answer5_btn">ANSWER5</string>
+</resources>
